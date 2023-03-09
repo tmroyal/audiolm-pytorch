@@ -1,3 +1,7 @@
+## About this fork
+
+This fork removes references to `fairseq`, which was causing errors. I was not interested in using MusicLM, but in investigating soundstream, and `import fairseq` was causing an error on my machine.
+
 <img src="./audiolm.png" width="600px"></img>
 
 ## AudioLM - Pytorch
